@@ -126,8 +126,7 @@ function renderDragonList() {
     }
 }
 
-// re-render buy/level button disabled states whenever gold changes significantly
-// (simple approach for a test build: just re-render dragon list on every click/tick too)
+// ---------- INDIVIDUAL UPDATES ----------
 const originalUpdateStats = updateStatsDisplay;
 updateStatsDisplay = function () {
     originalUpdateStats();
