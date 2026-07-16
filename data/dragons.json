@@ -1,0 +1,184 @@
+{
+  "dragons": [
+    {
+      "id": "moondancer",
+      "name": "Moondancer",
+      "epithet": "The Young Huntress",
+      "rarity": "common",
+      "description": "A small, quick dragon ridden by Baela Targaryen, fierce in battle despite her modest size.",
+      "baseCost": 10,
+      "clickPowerPerLevel": 0,
+      "passivePowerPerLevel": 1
+    },
+    {
+      "id": "vermax",
+      "name": "Vermax",
+      "epithet": "Jacaerys's Wings",
+      "rarity": "common",
+      "description": "A green dragon ridden by Prince Jacaerys Velaryon, used to rally northern houses to Rhaenyra's cause.",
+      "baseCost": 60,
+      "clickPowerPerLevel": 1,
+      "passivePowerPerLevel": 0
+    },
+    {
+      "id": "cannibal",
+      "name": "Cannibal",
+      "epithet": "Devourer of Eggs",
+      "rarity": "common",
+      "description": "A monstrous, black wild dragon of Dragonstone known for feeding on the corpses and eggs of other dragons.",
+      "baseCost": 350,
+      "clickPowerPerLevel": 0,
+      "passivePowerPerLevel": 4
+    },
+    {
+      "id": "dreamfyre",
+      "name": "Dreamfyre",
+      "epithet": "Helaena's Sorrow",
+      "rarity": "common",
+      "description": "A pale blue-and-silver dragon bonded to Helaena Targaryen; one of the oldest dragons alive during the Dance.",
+      "baseCost": 2200,
+      "clickPowerPerLevel": 6,
+      "passivePowerPerLevel": 11
+    },
+    {
+      "id": "seasmoke",
+      "name": "Seasmoke",
+      "epithet": "Silver-Grey Wings",
+      "rarity": "common",
+      "description": "A pale silver-grey dragon first ridden by Laenor Velaryon, later claimed by the dragonseed Addam of Hull.",
+      "baseCost": 13000,
+      "clickPowerPerLevel": 40,
+      "passivePowerPerLevel": 26
+    },
+    {
+      "id": "sheepstealer",
+      "name": "Sheepstealer",
+      "epithet": "The Shepherd's Bane",
+      "rarity": "common",
+      "description": "An ill-tempered wild dragon of the Vale who preyed on flocks, eventually claimed by the dragonseed Nettles.",
+      "baseCost": 78000,
+      "clickPowerPerLevel": 0,
+      "passivePowerPerLevel": 253
+    },
+    {
+      "id": "sunfyre",
+      "name": "Sunfyre",
+      "epithet": "The Golden",
+      "rarity": "rare",
+      "description": "Said to be the most beautiful dragon ever bred, gold-scaled with pink membranes, ridden by Aegon II.",
+      "baseCost": 470000,
+      "clickPowerPerLevel": 714,
+      "passivePowerPerLevel": 178
+    },
+    {
+      "id": "silverwing",
+      "name": "Silverwing",
+      "epithet": "Alysanne's Grace",
+      "rarity": "rare",
+      "description": "A swift silver-and-white dragon once ridden by Good Queen Alysanne, later claimed by the dragonseed Ulf the White.",
+      "baseCost": 2800000,
+      "clickPowerPerLevel": 797,
+      "passivePowerPerLevel": 1860
+    },
+    {
+      "id": "syrax",
+      "name": "Syrax",
+      "epithet": "The Queen's Dragon",
+      "rarity": "rare",
+      "description": "A golden-scaled dragon ridden by Rhaenyra Targaryen, named for a goddess of old Valyria.",
+      "baseCost": 17000000,
+      "clickPowerPerLevel": 3995,
+      "passivePowerPerLevel": 3269
+    },
+    {
+      "id": "meleys",
+      "name": "Meleys",
+      "epithet": "The Red Queen",
+      "rarity": "rare",
+      "description": "A swift, fiery scarlet dragon ridden by the elder Rhaenys Targaryen, killed alongside her at the Battle Above the Gods Eye.",
+      "baseCost": 100000000,
+      "clickPowerPerLevel": 21769,
+      "passivePowerPerLevel": 0
+    },
+    {
+      "id": "vermithor",
+      "name": "Vermithor",
+      "epithet": "The Bronze Fury",
+      "rarity": "rare",
+      "description": "A bronze dragon once ridden by Jaehaerys the Old King, later claimed from the wild by the dragonseed Hugh Hammer.",
+      "baseCost": 600000000,
+      "clickPowerPerLevel": 21083,
+      "passivePowerPerLevel": 49193
+    },
+    {
+      "id": "caraxes",
+      "name": "Caraxes",
+      "epithet": "The Blood Wyrm",
+      "rarity": "rare",
+      "description": "A long, serpentine, blood-red dragon ridden by Daemon Targaryen across decades of war.",
+      "baseCost": 3600000000,
+      "clickPowerPerLevel": 247090,
+      "passivePowerPerLevel": 0
+    },
+    {
+      "id": "viserion",
+      "name": "Viserion",
+      "epithet": "The Fallen King",
+      "rarity": "epic",
+      "description": "A cream-and-gold dragon belonging to Daenerys Targaryen, named for her brother Viserys; later raised as an undead wight.",
+      "baseCost": 22000000000,
+      "clickPowerPerLevel": 440690,
+      "passivePowerPerLevel": 440690
+    },
+    {
+      "id": "rhaegal",
+      "name": "Rhaegal",
+      "epithet": "Green Wings",
+      "rarity": "epic",
+      "description": "A green-and-bronze dragon belonging to Daenerys Targaryen, named for her brother Rhaegar.",
+      "baseCost": 130000000000,
+      "clickPowerPerLevel": 2197090,
+      "passivePowerPerLevel": 1183050
+    },
+    {
+      "id": "vhagar",
+      "name": "Vhagar",
+      "epithet": "Terror of the Dance",
+      "rarity": "epic",
+      "description": "Second largest dragon in Targaryen history, outliving Balerion and Meraxes to become the eldest dragon during the Dance of the Dragons.",
+      "baseCost": 780000000000,
+      "clickPowerPerLevel": 9006130,
+      "passivePowerPerLevel": 4849450
+    },
+    {
+      "id": "meraxes",
+      "name": "Meraxes",
+      "epithet": "Rhaenys's Wings",
+      "rarity": "epic",
+      "description": "Ridden by Rhaenys Targaryen during the Conquest; slain by a scorpion bolt to the eye at the siege of Storm's End.",
+      "baseCost": 4700000000000,
+      "clickPowerPerLevel": 17336560,
+      "passivePowerPerLevel": 40451970
+    },
+    {
+      "id": "drogon",
+      "name": "Drogon",
+      "epithet": "The Dragon Queen's Shadow",
+      "rarity": "legendary",
+      "description": "The largest and most aggressive of Daenerys Targaryen's three dragons, black-scaled with red markings.",
+      "baseCost": 28000000000000,
+      "clickPowerPerLevel": 164266700,
+      "passivePowerPerLevel": 88451300
+    },
+    {
+      "id": "balerion",
+      "name": "Balerion",
+      "epithet": "The Black Dread",
+      "rarity": "legendary",
+      "description": "The largest dragon ever known to have lived, ridden by Aegon the Conqueror during the conquest of Westeros.",
+      "baseCost": 170000000000000,
+      "clickPowerPerLevel": 337689460,
+      "passivePowerPerLevel": 787942060
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+button {
+    font-size: 1.2rem;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.dragon-row {
+    border-bottom: 1px solid #ccc;
+    padding: 6px 0;
+}
+
+    .dragon-row button {
+        font-size: 0.9rem;
+        padding: 4px 10px;
+    }
